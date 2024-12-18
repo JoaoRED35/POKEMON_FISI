@@ -1,0 +1,6 @@
+.Fondo{background-image: url(7326561650359204.jpg); background-repeat: no-repeat; background-size: cover;}
+.Titulo{text-align: center; font-family: 'Pokemon'; font-size: 100px;color: yellow;}
+.Texto{font-family: 'Pokemon'; font-size: 75px ; color: blue;background-color: cornsilk;}
+.Lineas{height: 20px; width: 100%;}
+.Gameplay{width: 50%; margin-left: 25%;}
+.TemaLobby{display:scroll; position: fixed; top: 0px; right: 0px;}

@@ -1,0 +1,7 @@
+.Fondo{background-image:url(d5nwldw-186afcb8-332f-4892-9366-4637673e1ae9.png); background-repeat: no-repeat; background-size: cover;}
+.Titulo{text-align: center; font-family: 'Pokemon'; font-size: 100px; color: indigo;}
+.Texto{font-family: 'Comic Sans'; font-size: 50px; text-align: center; color: darkred;}
+.Blaziken{width: 25%; float: left;}
+.Descripcion{font-family: 'Comic Sans'; font-size: 50px;}
+.Iconos{width: 15%; float: right;}
+.TemaLobby{display:scroll; position: fixed; top: 0px; left: 0px;}

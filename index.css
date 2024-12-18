@@ -1,0 +1,6 @@
+.Titulo{text-align: center; font-size: 150px; text-decoration-line: underline; text-decoration-style: double; text-decoration-thickness: 10px;}
+.Caratula{font-size: xx-large; text-align: center; font-family: 'Times New Roman', Times, serif; font-style: italic;}
+.LogoUNAP{float: left; width: 15%;}
+.LogoFISI{float: right; width: 10%;}
+.Pokemon{font-family: 'Pokemon';}
+.Fondo{background-image: url(111782-simetria-fila-monocromo-triangulo-angulo-x750.jpg); background-repeat: no-repeat; background-size: cover;}

@@ -1,0 +1,7 @@
+.Fondo{background-image:url(battlebglava_by_aveontrainer_ddfn6ec-fullview.jpg); background-repeat: no-repeat; background-size: cover;}
+.Titulo{text-align: center; font-family: 'Pokemon'; font-size: 100px; color: lightskyblue;}
+.Texto{font-family: 'Comic Sans'; font-size: 50px; text-align: center; color: yellow;}
+.Blaziken{width: 25%; float: left;}
+.Descripcion{font-family: 'Comic Sans'; font-size: 50px; color: azure;}
+.Iconos{width: 15%; float: right;}
+.TemaLobby{display:scroll; position: fixed; top: 0px; left: 0px;}
